@@ -1,5 +1,12 @@
-img {
-  /*width: 150px;*/
-  /*box-shadow: 8px 8px 4px #AAA;*/
-  /*float: right;*/
+.body {
+  font-family: "Aerial", sans-serif;
+  width: 960px;
+  margin: 10px auto;
+}
+
+
+.header {
+  background: #EEE;
+  padding: 14px;
+  border-radius: 15px;
 }
